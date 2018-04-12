@@ -4,6 +4,4 @@ def line(katz_deli)
   else katz_deli.size > 1
     puts "The line is currently #{katz_deli.size +1}"
   end
-  def take_a_number(katz_deli, name)
-
 end
