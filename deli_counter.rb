@@ -8,6 +8,4 @@ def line(katz_deli)
       end
       puts current_line
     end
-  end
-  end
 end
